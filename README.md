@@ -1,2 +1,4 @@
 # Pollution
-Efecto en los marcadores de contaminación del aire de la restricción a las actividades de interacción social durante la pandemia de COVID-19 en Bogotá durante el periodo 2019-2020
+Temperatura promedio horaria durante el 2018 en Suba-Bogotá: Pasos claves para realizar un análisis de series temporales.
+Average hourly temperature in Bogotá-Suba during 2018: Key steps to perform a time-series analysis.
+Keywords. Time-series; Time factors; Environment; Environment temperature; Weather; Biostatistics.
